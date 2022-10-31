@@ -10,7 +10,7 @@ body{
 
 }
 .pimage1{
-    background-image: url(../images/171469.jpg);
+    background-image: url(../images/code_of_nature_symrise.jpg);
     min-height: 100%;
     position: relative;
     background-position: center;
@@ -30,9 +30,11 @@ body{
 
 }
 
+
 .pimage1,
 .pimage2,
-.pimage3{
+.pimage3
+{
     position: relative;
     background-position: center;
     background-size: cover;
